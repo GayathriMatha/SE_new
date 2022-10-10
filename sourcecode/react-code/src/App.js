@@ -145,7 +145,7 @@ class App extends Component {
 
 					<br/> 
 
-					<button   class="btn btn-primary">Submit Information</button>
+					{/* <button   class="btn btn-primary">Submit Information</button> */}
 			</form>
 		</div>
 

@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 // https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3.webp
  
 
-const NODE_SERVER_URL = 'http://localhost:3001'
+const NODE_SERVER_URL = 'http://54.90.228.209:3001'
 const GET_PROFILE_DATA_ENDPOINT = `${NODE_SERVER_URL}/api/getProfileData`
 const POST_PROFILE_DATA_ENDPOINT = `${NODE_SERVER_URL}/api/postProfileData`
 const PRODUCT_DATA_ENDPOINT = 'https://dummyjson.com/products'

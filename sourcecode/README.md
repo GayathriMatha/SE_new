@@ -1,8 +1,6 @@
-IP address: https://34.224.67.214:3000/
+IP address: http://44.201.168.245:3000
 
-DNS : https://ec2-34-224-67-214.compute-1.amazonaws.com/
-
-Github Link: 
+api link : http://54.90.228.209:3001/api/getProfileData
 
 # Getting Started with Create React App
 
